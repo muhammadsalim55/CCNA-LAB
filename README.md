@@ -1,9 +1,9 @@
 
-CNA Labs – My Learning Journey
+CNNA Labs – My Learning Journey
 
 Hello,  
 This repository is a part of my *CCNA learning journey*.  
-Every day, I study a new topic, take notes, build labs in Cisco Packet Tracer,  
+ I study a new topic, take notes, build labs in Cisco Packet Tracer,  
 and upload them here to keep track of my progress and to help others learn as well.  
 
 ---
